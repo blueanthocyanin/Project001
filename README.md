@@ -34,3 +34,8 @@ This is plain.
     2. Item number 02.02.
 3. Item number 03
 4. Item number 03
+
+
+[Check the project here](https://github.com/blueanthocyanin/Project001)
+
+![Picture of a cumulus nimbus](https://upload.wikimedia.org/wikipedia/commons/9/93/Fly00890_-_Flickr_-_NOAA_Photo_Library.jpg)
