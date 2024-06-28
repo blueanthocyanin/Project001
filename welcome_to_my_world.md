@@ -55,3 +55,17 @@ print(x + " is delicious")
 ```
 
 ---
+
+| Nice vegetables | Bad vegetables |
+|-----------------|----------------|
+| Zucchini        | Paprika        |
+| Kale            | Celery         |
+| Carrot          | Onion          |
+
+
+So what you can find on my planet
+- [x] Nice environment
+- [x] Nice plants
+- [ ] Humans
+
+---
