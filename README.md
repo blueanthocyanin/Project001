@@ -61,7 +61,7 @@ This is plain.
 
 First create a `model.py` file.
 
-```
+```python
 print("Hello Markdown")
 for i in range(100):
     print(i)
