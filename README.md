@@ -19,3 +19,18 @@ This is plain.
 **This is bold.**
 
 ***This is italic and bold.***
+
+- Item 01
+- Item 02
++ Item 03
++ Item 04
+    + Item 04.01.
+        + Item 04.01.01.
+            + Item 04.01.01.01.
+
+1. Item number 01
+2. Item number 02
+    1. Item number 02.01.
+    2. Item number 02.02.
+3. Item number 03
+4. Item number 03
