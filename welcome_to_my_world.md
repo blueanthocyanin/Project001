@@ -10,7 +10,7 @@
 ##### while getting smaller
 ###### until this size
 
-So if you want to write something **bold** you have to put \** around the word
+So if you want to write something **bold** you have to put \** around the word. You can also write ***italic+bold*** with \***.
 
 ---
 
@@ -56,11 +56,11 @@ print(x + " is delicious")
 
 ---
 
-| Nice vegetables | Bad vegetables |
-|-----------------|----------------|
-| Zucchini        | Paprika        |
-| Kale            | Celery         |
-| Carrot          | Onion          |
+| Nice vegetables | Bad vegetables | Other vegetables|
+|-----------------|----------------|-----------------|
+| Zucchini        | Paprika        | Carrot          |
+| Kale            | Celery         | Broccoli        |
+| Garlic          | Onion          | Brussels sprouts|
 
 
 So what you can find on my planet
